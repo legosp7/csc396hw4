@@ -1,4 +1,4 @@
-Assignment 4 is in HW4
+Assignment 4 is in hw4.ipynb
 
 The code expects the file to be in the same directory. It splits it into training/testing.
 
